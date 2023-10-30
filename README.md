@@ -1,6 +1,6 @@
-##Calyptus Solana Mint NFT exercise.
+## Calyptus Solana Mint NFT exercise.
 
-Note the data_v2 in create_metadata_accounts_v3 uses a different struct with the same name.
+Note the data_v2 in `create_metadata_accounts_v3` uses a different struct with the same name.
 
 Change:
 
@@ -12,7 +12,7 @@ to
 
 ---
 
-###Minted transaction:
+### Minted transaction:
 
 https://explorer.solana.com/tx/2dpmUQvXZ7cZJVwii6Fb5zeL4B2wBs6LWyDgVDLpAZfJUezUsmcbTtreh9n9EEWUwfuiEWsyC1jrWGLfWibs752r?cluster=devnet
 
